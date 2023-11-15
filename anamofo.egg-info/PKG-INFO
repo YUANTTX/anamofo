@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: anamofo
+Version: 1.0.1
+Summary: A project for processing bioinformation analysis
+Home-page: https://github.com/YUANTTX/anamofo/
+Author: yuanttx
+Author-email: yuanttx@gmail.com
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Requires-Dist: numpy
+
+# anamofo
+note the python analysis code

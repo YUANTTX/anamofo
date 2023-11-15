@@ -1,0 +1,9 @@
+README.md
+setup.py
+anamofo/__init__.py
+anamofo/anamofo.py
+anamofo.egg-info/PKG-INFO
+anamofo.egg-info/SOURCES.txt
+anamofo.egg-info/dependency_links.txt
+anamofo.egg-info/requires.txt
+anamofo.egg-info/top_level.txt
